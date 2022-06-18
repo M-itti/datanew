@@ -11,3 +11,6 @@ def test():
 
 gmt()
 test()
+
+# added a call 
+print('call')
